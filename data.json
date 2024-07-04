@@ -20,5 +20,16 @@
         "lectureTitel": "",
         "lat": 52.3759,
         "long": 9.732
+    },
+    {
+        "ID": 2,
+        "date": "25.06.2001",
+        "location": "Hannover",
+        "type": "DigitalMobil",
+        "organiser": "Test Organisator",
+        "title": "Test Title",
+        "lectureTitel": "Test lecture Titel",
+        "lat": 52.3759,
+        "long": 9.732
     }
 ]
