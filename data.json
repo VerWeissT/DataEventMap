@@ -1,0 +1,15 @@
+[
+    {
+        "type": "offline",
+        "title": "Stnadort 1",
+        "lat": 49,
+        "long": 11
+
+    },
+    {
+        "type": "online",
+        "title": "Stnadort 2",
+        "lat": 49,
+        "long": 11
+    }
+]
