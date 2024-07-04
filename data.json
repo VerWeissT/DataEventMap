@@ -5,19 +5,19 @@
         "location": "Düsseldorf",
         "type": "Online",
         "organiser": "Test Organisator",
-        "title": "Test Title",
+        "title": "",
         "lectureTitel": "Test Lecture Titel",
         "lat": 51.2277,
         "long": 6.7735
     },
     {
         "ID": 2,
-        "date": "10.08.2013",
+        "date": "",
         "location": "Hannover",
         "type": "Offline",
         "organiser": "Test Organisator",
         "title": "Test Title",
-        "lectureTitel": "Test Lecture Titel",
+        "lectureTitel": "",
         "lat": 52.3759,
         "long": 9.732
     }
