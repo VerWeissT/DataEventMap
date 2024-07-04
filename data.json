@@ -1,74 +1,24 @@
 [
     {
-        "type": "digitalMobil",
-        "title": "Lonley Marker Digital Mobil",
-        "lat": 52.4,
-        "long": 13.2
+        "ID": 1,
+        "date": "15.08.2021",
+        "location": "Düsseldorf",
+        "type": "Online",
+        "organiser": "Test Organisator",
+        "title": "Test Title",
+        "lectureTitel": "Test Lecture Titel",
+        "lat": 51.2277,
+        "long": 6.7735
     },
     {
-        "type": "online",
-        "title": "Lonley Marker Online",
-        "lat": 51.4,
-        "long": 7.5
-    },
-    {
-        "type": "offline",
-        "title": "Lonley Marker Offline",
-        "lat": 51,
-        "long": 13.3
-    },
-    {
-        "type": "online",
-        "title": "Group Marker online 1",
-        "lat": 49.47324586242108, 
-        "long": 10.98805987932096
-    },
-    {
-        "type": "online",
-        "title": "Group Marker online 2",
-        "lat": 49.28171366245603, 
-        "long": 11.445038212787637
-    },
-    {
-        "type": "online",
-        "title": "Group Marker online 3",
-        "lat": 49.47827538784245, 
-        "long": 8.463169469500201
-    },    
-    {
-        "type": "digitalMobil",
-        "title": "Group Marker Digital Mobil",
-        "lat": 49.44721506687342, 
-        "long": 11.101129914719916
-    },
-    {
-        "type": "offline",
-        "title": "Group Marker Offline 1",
-        "lat": 49.252468958773015, 
-        "long": 11.090404320570867
-    },
-    {
-        "type": "offline",
-        "title": "Group Marker Offline 2",
-        "lat": 49.252468958773015, 
-        "long": 11.090404320570867
-    },
-    {
-        "type": "offline",
-        "title": "Group Marker Offline 2",
-        "lat": 49.252468958773015, 
-        "long": 11.090404320570867
-    },
-    {
-        "type": "offline",
-        "title": "Group Marker Offline 4",
-        "lat": 49.50861302676318, 
-        "long": 8.518828993314777
-    },
-    {
-        "type": "offline",
-        "title": "Group Marker Offline 5",
-        "lat": 49.534238905655926, 
-        "long": 8.355592746869233
+        "ID": 2,
+        "date": "10.08.2013",
+        "location": "Hannover",
+        "type": "Offline",
+        "organiser": "Test Organisator",
+        "title": "Test Title",
+        "lectureTitel": "Test Lecture Titel",
+        "lat": 52.3759,
+        "long": 9.732
     }
 ]
